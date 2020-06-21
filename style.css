@@ -1,0 +1,45 @@
+body{
+
+    width: 100%;
+    max-width: 1440px;
+    margin: 1 auto ;
+    background-color: bisque;
+    font-size: 110%;
+}
+
+h1,h2 {
+
+margin: auto;
+padding:.4em;
+text-align: center;
+font-size: 150;
+font-weight: bold;
+
+
+}
+
+p{
+
+    margin: auto;
+    text-align: center;
+    font-size: 100%;
+    padding:.2em
+}
+
+li{
+
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center
+}
+
+
+img{
+
+    align-items: center;
+    display:block;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 50%
+}
